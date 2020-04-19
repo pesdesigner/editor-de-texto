@@ -1,0 +1,10 @@
+C:\C#\Application\Editor de Texto\bin\Debug\Editor de Texto.exe.config
+C:\C#\Application\Editor de Texto\bin\Debug\Editor de Texto.exe
+C:\C#\Application\Editor de Texto\bin\Debug\Editor de Texto.pdb
+C:\C#\Application\Editor de Texto\obj\Debug\Editor de Texto.csprojAssemblyReference.cache
+C:\C#\Application\Editor de Texto\obj\Debug\Editor_de_Texto.Form1.resources
+C:\C#\Application\Editor de Texto\obj\Debug\Editor_de_Texto.Properties.Resources.resources
+C:\C#\Application\Editor de Texto\obj\Debug\Editor de Texto.csproj.GenerateResource.cache
+C:\C#\Application\Editor de Texto\obj\Debug\Editor de Texto.csproj.CoreCompileInputs.cache
+C:\C#\Application\Editor de Texto\obj\Debug\Editor de Texto.exe
+C:\C#\Application\Editor de Texto\obj\Debug\Editor de Texto.pdb
